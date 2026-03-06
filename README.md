@@ -106,6 +106,6 @@
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories ⭐  
+### ⭐⭐ If you like my work, consider giving a star to my repositories ⭐⭐  
 
 </div>
