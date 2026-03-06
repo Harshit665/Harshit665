@@ -11,7 +11,8 @@
 
 ## 🧑‍💻 About Me  
 
-- 🔭 Currently building a **Learning Management System (LMS)**  
+- 🔭 Currently building a **Learning Management System (LMS)**
+- 🔭 Working on industry level, highly scalable metromonial website   
 - 🌱 Learning **Cloud Computing, Machine Learning & DSA**  
 - 👯 Open to collaborating on **real-world web projects**  
 - 📫 Reach me at **harshit13333@gmail.com**
