@@ -14,8 +14,6 @@
 - 🔭 Currently building a **Learning Management System (LMS)**  
 - 🌱 Learning **Cloud Computing, Machine Learning & DSA**  
 - 👯 Open to collaborating on **real-world web projects**  
-- 🤝 Looking for guidance & collaboration in **ML projects**  
-- 💬 Ask me about **improving websites & understanding user psychology**  
 - 📫 Reach me at **harshit13333@gmail.com**  
 - ⚡ Fun fact: *Entrepreneur by genes, developer by choice — I fix code and business ideas alike.*
 
